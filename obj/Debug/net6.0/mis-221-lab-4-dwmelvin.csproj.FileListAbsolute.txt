@@ -1,0 +1,15 @@
+/Users/DavidWMelvin/Desktop/School/classes/MIS/mis-221-lab-4-dwmelvin/bin/Debug/net6.0/mis-221-lab-4-dwmelvin
+/Users/DavidWMelvin/Desktop/School/classes/MIS/mis-221-lab-4-dwmelvin/bin/Debug/net6.0/mis-221-lab-4-dwmelvin.deps.json
+/Users/DavidWMelvin/Desktop/School/classes/MIS/mis-221-lab-4-dwmelvin/bin/Debug/net6.0/mis-221-lab-4-dwmelvin.runtimeconfig.json
+/Users/DavidWMelvin/Desktop/School/classes/MIS/mis-221-lab-4-dwmelvin/bin/Debug/net6.0/mis-221-lab-4-dwmelvin.dll
+/Users/DavidWMelvin/Desktop/School/classes/MIS/mis-221-lab-4-dwmelvin/bin/Debug/net6.0/mis-221-lab-4-dwmelvin.pdb
+/Users/DavidWMelvin/Desktop/School/classes/MIS/mis-221-lab-4-dwmelvin/obj/Debug/net6.0/mis-221-lab-4-dwmelvin.csproj.AssemblyReference.cache
+/Users/DavidWMelvin/Desktop/School/classes/MIS/mis-221-lab-4-dwmelvin/obj/Debug/net6.0/mis-221-lab-4-dwmelvin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DavidWMelvin/Desktop/School/classes/MIS/mis-221-lab-4-dwmelvin/obj/Debug/net6.0/mis-221-lab-4-dwmelvin.AssemblyInfoInputs.cache
+/Users/DavidWMelvin/Desktop/School/classes/MIS/mis-221-lab-4-dwmelvin/obj/Debug/net6.0/mis-221-lab-4-dwmelvin.AssemblyInfo.cs
+/Users/DavidWMelvin/Desktop/School/classes/MIS/mis-221-lab-4-dwmelvin/obj/Debug/net6.0/mis-221-lab-4-dwmelvin.csproj.CoreCompileInputs.cache
+/Users/DavidWMelvin/Desktop/School/classes/MIS/mis-221-lab-4-dwmelvin/obj/Debug/net6.0/mis-221-lab-4-dwmelvin.dll
+/Users/DavidWMelvin/Desktop/School/classes/MIS/mis-221-lab-4-dwmelvin/obj/Debug/net6.0/refint/mis-221-lab-4-dwmelvin.dll
+/Users/DavidWMelvin/Desktop/School/classes/MIS/mis-221-lab-4-dwmelvin/obj/Debug/net6.0/mis-221-lab-4-dwmelvin.pdb
+/Users/DavidWMelvin/Desktop/School/classes/MIS/mis-221-lab-4-dwmelvin/obj/Debug/net6.0/mis-221-lab-4-dwmelvin.genruntimeconfig.cache
+/Users/DavidWMelvin/Desktop/School/classes/MIS/mis-221-lab-4-dwmelvin/obj/Debug/net6.0/ref/mis-221-lab-4-dwmelvin.dll
