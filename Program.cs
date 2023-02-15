@@ -42,19 +42,20 @@ static void DisplayMenu() {
    }
    static void GetPartial() {
             Random rnd = new Random();
-            int rows = rnd.Next(3, 6);
+            int rows = rnd.Next(3, 10);
             
             for (int i = 1; i <= rows; i++)
             {
                 for (int column = 1; column <= i; column++)
                 {
-                    {
-                        if (rnd.Next (0, 2) == 0)
+                { int partial = rnd.Next(4);
+                        
+                            if(partial != 1)
                         {
-                            System.Console.Write(" ");
+                            System.Console.Write("*");
                         }
                     }
-                    System.Console.Write("*");
+                    System.Console.Write(" ");
                 }
                 System.Console.WriteLine(); 
        }
